@@ -7,6 +7,7 @@
 </head>
 <body>
     <h1>Про мене</h1>
+    <link rel="stylesheet" href="style.css">
     <ol>
         <li>Я Рома мені 13 років і я програміст</li>
         <li>Я полюбляю грати в комп'ютерні ігри</li>
@@ -25,5 +26,8 @@
         <li>Піца</li>
         <li>Суші</li>
     </ul>   
+
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5SvXYPETlgWCV2am85OQG35VwzI1JD6sg2A&s" alt="" width="230" height="230">
+    <a href="https://store.steampowered.com/app/1229490/ULTRAKILL/" target="_blank">Улюблена гра</a>
 </body>
 </html>
