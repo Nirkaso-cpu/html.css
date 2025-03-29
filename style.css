@@ -1,0 +1,12 @@
+h1 {
+    color:blueviolet;
+    border-radius: 30%;
+    border-color: crimson;
+    border: 4px dotted violet;
+}
+
+img {
+    border-radius: 40%;
+    border-color: yellow;
+    border: 4px double yellow;
+}
